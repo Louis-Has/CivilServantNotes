@@ -12,26 +12,17 @@
   "obsidian-git:push2": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "P"
-    }
-  ],
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "O"
     }
   ],
   "obsidian-git:list-changed-files": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "L"
     }
@@ -106,6 +97,15 @@
         "Shift"
       ],
       "key": "8"
+    }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "O"
     }
   ]
 }
